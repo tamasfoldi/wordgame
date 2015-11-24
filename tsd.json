@@ -1,0 +1,69 @@
+{
+  "version": "v4",
+  "repo": "borisyankov/DefinitelyTyped",
+  "ref": "master",
+  "path": "typings",
+  "bundle": "typings/tsd.d.ts",
+  "installed": {
+    "angularjs/angular.d.ts": {
+      "commit": "fa04c80f4a889613b96cb4f283848c61a9f64233"
+    },
+    "jquery/jquery.d.ts": {
+      "commit": "fa04c80f4a889613b96cb4f283848c61a9f64233"
+    },
+    "angular-local-storage/angular-local-storage.d.ts": {
+      "commit": "eab2e0487e9685952db58e487d484a1c342ec670"
+    },
+    "angular-ui-router/angular-ui-router.d.ts": {
+      "commit": "eab2e0487e9685952db58e487d484a1c342ec670"
+    },
+    "angularjs/angular-mocks.d.ts": {
+      "commit": "eab2e0487e9685952db58e487d484a1c342ec670"
+    },
+    "angular-material/angular-material.d.ts": {
+      "commit": "eab2e0487e9685952db58e487d484a1c342ec670"
+    },
+    "angularjs/angular-animate.d.ts": {
+      "commit": "eab2e0487e9685952db58e487d484a1c342ec670"
+    },
+    "jasmine/jasmine.d.ts": {
+      "commit": "eab2e0487e9685952db58e487d484a1c342ec670"
+    },
+    "node/node.d.ts": {
+      "commit": "fa04c80f4a889613b96cb4f283848c61a9f64233"
+    },
+    "angular-storage/angular-storage.d.ts": {
+      "commit": "fa04c80f4a889613b96cb4f283848c61a9f64233"
+    },
+    "express/express.d.ts": {
+      "commit": "fa04c80f4a889613b96cb4f283848c61a9f64233"
+    },
+    "serve-static/serve-static.d.ts": {
+      "commit": "fa04c80f4a889613b96cb4f283848c61a9f64233"
+    },
+    "mime/mime.d.ts": {
+      "commit": "fa04c80f4a889613b96cb4f283848c61a9f64233"
+    },
+    "body-parser/body-parser.d.ts": {
+      "commit": "fa04c80f4a889613b96cb4f283848c61a9f64233"
+    },
+    "angular2/http-2.0.0-alpha.39.d.ts": {
+      "commit": "fa04c80f4a889613b96cb4f283848c61a9f64233"
+    },
+    "es6-shim/es6-shim.d.ts": {
+      "commit": "fa04c80f4a889613b96cb4f283848c61a9f64233"
+    },
+    "angular2/angular2-2.0.0-alpha.39.d.ts": {
+      "commit": "fa04c80f4a889613b96cb4f283848c61a9f64233"
+    },
+    "angularjs/angular-route.d.ts": {
+      "commit": "fa04c80f4a889613b96cb4f283848c61a9f64233"
+    },
+    "hashset/hashset.d.ts": {
+      "commit": "ba424f7ee39717d51c17699a09ac8df312a7e9a1"
+    },
+    "hashtable/hashtable.d.ts": {
+      "commit": "ba424f7ee39717d51c17699a09ac8df312a7e9a1"
+    }
+  }
+}
